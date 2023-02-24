@@ -3,7 +3,7 @@ layout: allposts
 title: Blog
 landing-title: 'Blog'
 nav-menu: true
-description: null
+description: stories and thoughts
 image: null
 author: null
 ---
