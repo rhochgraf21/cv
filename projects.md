@@ -2,6 +2,7 @@
 title: Projects
 layout: landing
 image: assets/images/pic07.jpg
+description: coding artifacts
 nav-menu: true
 ---
 
