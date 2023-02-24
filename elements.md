@@ -9,8 +9,8 @@ nav-menu: true
 <div id="main" class="alt">
 	
 <!-- Resume PDF -->
-<object data="/assets/images/Robert Hochgraf Resume Feb 23 2023.pdf" type="application/pdf" width="500" height="700">
-  <a href="/assets/images/Robert Hochgraf Resume Feb 23 2023.pdf">Download PDF</a>
+<object data="/cv/assets/images/Robert Hochgraf Resume Feb 23 2023.pdf" type="application/pdf" width="500" height="700">
+  <a href="/cv/assets/images/Robert Hochgraf Resume Feb 23 2023.pdf">Download PDF</a>
 </object>
 
 <!-- One -->
