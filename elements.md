@@ -7,6 +7,11 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
+	
+<!-- Resume PDF -->
+<object data="/assets/images/Robert Hochgraf Resume Feb 23 2023.pdf" type="application/pdf" width="500" height="700">
+  <a href="/assets/images/Robert Hochgraf Resume Feb 23 2023.pdf">Download PDF</a>
+</object>
 
 <!-- One -->
 <section id="one">
