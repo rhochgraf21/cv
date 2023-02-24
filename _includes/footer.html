@@ -2,24 +2,7 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
+			<div class="ml-embedded" data-form="S8SPxC"></div>
 		</section>
 		<section class="split">
 			<section>
@@ -96,3 +79,12 @@
 	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+        <!-- MailerLite Universal -->
+        <script>
+                (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+                .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+                n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+                (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+                ml('account', '341816');
+        </script>
+    <!-- End MailerLite Universal -->
