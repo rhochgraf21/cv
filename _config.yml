@@ -4,8 +4,8 @@ subtitle: Software Engineer
 email: robehoco@gmail.com
 description: Software Researcher Working Towards Performance Portable BLAS Libraries. Seeking Fall 2023 Co-Op in Software Engineering, Causal Artificial Intelligence.
 baseurl: "/cv" # the subpath of your site, e.g. /blog
-url: rhochgraf21.github.io/cv # the base hostname & protocol for your site
-author:
+url: # the base hostname & protocol for your site
+author: Robert Hochgraf
 street_address: 5000 Nathaniel Rochester Hall
 city: Henrietta
 state: NY
