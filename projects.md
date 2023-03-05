@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-image: assets/images/pic07.jpg
+image: assets/images/sky_reflection.jpg
 description: Coding Artifacts
 nav-menu: true
 ---
