@@ -2,7 +2,7 @@
 layout: page
 title: My Resume
 description: Skills & Experiences
-image: assets/images/firework_selfie.jpg
+image: assets/images/waterfall.jpg
 nav-menu: true
 ---
 
